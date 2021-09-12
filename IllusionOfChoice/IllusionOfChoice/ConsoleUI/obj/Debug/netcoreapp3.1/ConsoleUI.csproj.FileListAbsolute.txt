@@ -1,0 +1,17 @@
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\bin\Debug\netcoreapp3.1\Utilites.dll
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\bin\Debug\netcoreapp3.1\Utilites.pdb
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache

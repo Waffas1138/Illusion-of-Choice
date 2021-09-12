@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duke1\\Source\\Repos\\Illusion-of-Choice\\IllusionOfChoice\\IllusionOfChoice\\Utilites\\Utilites.csproj",
+      "projectUniqueName": "C:\\Users\\Duke1\\Source\\Repos\\Waffas1138\\Illusion-of-Choice\\IllusionOfChoice\\IllusionOfChoice\\Utilites\\Utilites.csproj",
       "projectName": "Utilites",
-      "projectPath": "C:\\Users\\Duke1\\Source\\Repos\\Illusion-of-Choice\\IllusionOfChoice\\IllusionOfChoice\\Utilites\\Utilites.csproj",
+      "projectPath": "C:\\Users\\Duke1\\Source\\Repos\\Waffas1138\\Illusion-of-Choice\\IllusionOfChoice\\IllusionOfChoice\\Utilites\\Utilites.csproj",
       "packagesPath": "C:\\Users\\Duke1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duke1\\Source\\Repos\\Illusion-of-Choice\\IllusionOfChoice\\IllusionOfChoice\\Utilites\\obj\\",
+      "outputPath": "C:\\Users\\Duke1\\Source\\Repos\\Waffas1138\\Illusion-of-Choice\\IllusionOfChoice\\IllusionOfChoice\\Utilites\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Duke1\\AppData\\Roaming\\NuGet\\NuGet.Config",

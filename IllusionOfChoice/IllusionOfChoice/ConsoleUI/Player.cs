@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 using Utilites;
+using System.Linq;
+
 
 namespace ConsoleUI
 {
@@ -13,6 +15,7 @@ namespace ConsoleUI
             string ClassName = "";
             string race = "";
             string password = "";
+            bool validPassword = false;
             bool validClass = false;
             bool validRace = false;
             // This is used for the player to input their name
@@ -21,11 +24,19 @@ namespace ConsoleUI
             name = (Console.ReadLine());
 
             // This is used for the player to input their password for their save
+            while (validPassword == false) { 
             Console.WriteLine("Please enter a password, it needs one capital letter, one lowercase letter and one special character:");
             Console.Write("> ");
             password = (Console.ReadLine());
-
-
+                if (password.Any(char.IsUpper) && password.Any(char.IsLower))
+                {
+                    validPassword = true;
+                }
+                else
+                {
+                    Console.WriteLine("That is an invalid password, please try again");
+                }
+            }
 
             while (validClass == false)// setsup the while statement so this will keep running until they enter a valid class option
             {

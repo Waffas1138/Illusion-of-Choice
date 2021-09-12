@@ -1,0 +1,10 @@
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\Utilites\bin\Debug\netcoreapp3.1\Utilites.deps.json
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\Utilites\bin\Debug\netcoreapp3.1\Utilites.dll
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\Utilites\bin\Debug\netcoreapp3.1\Utilites.pdb
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\Utilites\obj\Debug\netcoreapp3.1\Utilites.csproj.AssemblyReference.cache
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\Utilites\obj\Debug\netcoreapp3.1\Utilites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\Utilites\obj\Debug\netcoreapp3.1\Utilites.AssemblyInfoInputs.cache
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\Utilites\obj\Debug\netcoreapp3.1\Utilites.AssemblyInfo.cs
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\Utilites\obj\Debug\netcoreapp3.1\Utilites.csproj.CoreCompileInputs.cache
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\Utilites\obj\Debug\netcoreapp3.1\Utilites.dll
+C:\Users\Duke1\Source\Repos\Waffas1138\Illusion-of-Choice\IllusionOfChoice\IllusionOfChoice\Utilites\obj\Debug\netcoreapp3.1\Utilites.pdb

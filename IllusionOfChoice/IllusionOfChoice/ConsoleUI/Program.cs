@@ -1,4 +1,13 @@
-﻿using System;
+﻿/**
+* 9/12/2021
+* CSC 253
+* Group 2
+
+* Group Members: Travis Bivins / Mateo Friend
+* This is an expanded version of the text based adventure game from before but taking in what we have learned in the advanced class
+* and making a full fledged fleshed out game
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -53,7 +62,13 @@ namespace ConsoleUI
                     case "north":
                         Movement.MoveNorth(ref World.index); // moves the user up one
                         break;
+                    case "n":
+                        Movement.MoveNorth(ref World.index); // moves the user up one
+                        break;
                     case "south":
+                        Movement.MoveSouth(ref World.index); // moves the user down one
+                        break;
+                    case "s":
                         Movement.MoveSouth(ref World.index); // moves the user down one
                         break;
                     case "exit":
