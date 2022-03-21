@@ -91,5 +91,12 @@ namespace ConsoleUI
                 }
             }
         }
+        public static void playerHP()
+        {
+            int hp = 0;
+            int attack = 0;
+            Console.WriteLine(hp + attack);
+        }
     }
+
 }
