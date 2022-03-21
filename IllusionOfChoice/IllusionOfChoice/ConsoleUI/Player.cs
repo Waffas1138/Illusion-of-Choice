@@ -93,9 +93,10 @@ namespace ConsoleUI
         }
         public static void playerHP()
         {
-            int hp = 0;
-            int attack = 0;
-            Console.WriteLine(hp + attack);
+            int hp = 1000;
+            int random atk = new Random(1,100);
+            Console.WriteLine(hp - atk);
+
         }
     }
 
