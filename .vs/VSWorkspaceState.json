@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\IllusionOfChoice",
+    "\\IllusionOfChoice\\IllusionOfChoice",
+    "\\IllusionOfChoice\\IllusionOfChoice\\ConsoleUI"
   ],
-  "SelectedNode": "\\IllusionOfChoice.sln",
+  "SelectedNode": "\\IllusionOfChoice\\IllusionOfChoice\\ConsoleUI\\Player.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -96,7 +96,7 @@ namespace ConsoleUI
             int hp = 1000;
             int random atk = new Random(1,100);
             Console.WriteLine(hp - atk);
-
+            console.writeLine("Testing for damage")
         }
     }
 
